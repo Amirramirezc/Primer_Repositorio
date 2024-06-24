@@ -1,1 +1,1 @@
-nbmnb
+print("Hola mundo")
